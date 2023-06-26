@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://karoljaworski.github.io/FEM-QR-code-component/))
+- Live Site URL: [https://karoljaworski.github.io/front-end-mentor-tasks/solutions/task1/]
 
 ### Built with
 
